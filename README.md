@@ -1,6 +1,6 @@
 # Projeto FominhaApp
 
-<img src="fominhaApp.jpg" alt="FominhaApp">
+<img src="img/fominhaApp.jpg" alt="FominhaApp">
 
 FominhaApp é um projeto que busca diminuir o disperdicio de alimentos na escola através da votação da intenção dos alunos diante da merenda.
 
@@ -37,33 +37,54 @@ Harvest significa colheita, e evoca a ideia do uso eficiente de recursos.
 
 # Equipe Harvest 
 
-<img src="equipe.jpg" alt="Equipe">
+<img src="participantes.jpg" alt="Equipe">
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Apresentação da equipe:
 
 <table>
   <tr>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="graziela.jpg" width="100px;" alt="Foto da Graziela"/><br>
+        <img src="img/graziela.jpg" width="200px;" alt="Foto da Graziela"/><br>
         <sub>
-          <b>Graziela Santos</b>
+          <b>Graziela Santos</b> <br>
+         <b> Progamadora Front-End </b>
+        </sub>
+      </a>
+    </td>
+   <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="img/geovana.jpg" width="200px;" alt="Geovana Domingos"/><br>
+        <sub>
+          <b>Geovana Domingos</b> <br>
+          <b> Criadora de conteúdos e administração. </b> 
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="kheronn.jpg" width="70px;" alt="Kheronn Machado"/><br>
+        <img src="img/kheronn.jpg" width="200px;" alt="Kheronn Machado"/><br>
         <sub>
-          <b> Kheronn Machado</b>
+          <b> Kheronn Machado</b> <br>
+          <b> Orientador </b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="mv.jpg" width="100px;" alt="Maria Vitoria"/><br>
+        <img src="img/mv.jpg" width="200px;" alt="Maria Vitoria"/><br>
         <sub>
-          <b>Maria Vitória</b>
+          <b>Maria Vitória</b> <br>
+          <b>Social Mídeas </b>
+        </sub>
+      </a>
+    </td>
+   <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="img/mc.jpg" width="200px;" alt="Maria Clara"/><br>
+        <sub>
+          <b>Maria Clara</b> <br>
+          <b>Designer </b>
         </sub>
       </a>
     </td>
