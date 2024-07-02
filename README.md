@@ -1,4 +1,4 @@
-# Projeto FominhaApp
+um# Projeto FominhaApp
 
 <img src="img/fominhaApp.jpg" alt="FominhaApp">
 
@@ -37,7 +37,7 @@ Harvest significa colheita, e evoca a ideia do uso eficiente de recursos.
 
 # Equipe Harvest 
 
-<img src="participantes.jpg" alt="Equipe">
+<img src="img/equipe2.jpg" alt="Equipe">
 
 Apresentação da equipe:
 
