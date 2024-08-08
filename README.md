@@ -1,18 +1,21 @@
-um# Projeto FominhaApp
+# Projeto FominhaApp
 
 <img src="img/fominhaApp.jpg" alt="FominhaApp">
 
-FominhaApp é um projeto que busca diminuir o disperdicio de alimentos na escola através da votação da intenção dos alunos diante da merenda.
+O FominhaApp é um projeto que tem como objetivo reduzir o desperdício de alimentos nas escolas. Ele permite que os alunos votem se pretendem fazer a refeição daquele dia, e possibilita deixar um feedback de suas preferências em relação à merenda. Com essa iniciativa, buscamos não apenas minimizar o desperdício, mas também incentivar a participação dos estudantes na construção de um ambiente escolar mais sustentável.
+
 
 # Etapas
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O projeto ainda está em constante desenvolvimento, mas, já temos algumas tarefas concluídas:
 
 - [x] Desenvolvimento do Aplicativo.
+- [x] Testes
 - [x] Criação da logo.
 - [x] Criação das redes sociais.
 - [x] Primeiro contato com os alunos na escola piloto.
-- [ ] Apresentaçao da equipe e divulgação do nome.
+- [x] Apresentação da equipe e divulgação do nome.
+      
  
 
 # 💻 Harvest
@@ -39,54 +42,58 @@ Harvest significa colheita, e evoca a ideia do uso eficiente de recursos.
 
 <img src="img/equipe2.jpg" alt="Equipe">
 
-Apresentação da equipe:
-
 <table>
   <tr>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="img/graziela.jpg" width="200px;" alt="Foto da Graziela"/><br>
+        <img src="img/graziela.jpg" width="50px;" alt="Foto da Graziela"/><br>
         <sub>
-          <b>Graziela Santos</b> <br>
-         <b> Progamadora Front-End </b>
+          <b>Graziela Santos</b> 
         </sub>
       </a>
     </td>
    <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="img/geovana.jpg" width="200px;" alt="Geovana Domingos"/><br>
+        <img src="img/geovana.jpg" width="50px;" alt="Geovana Domingos"/><br>
         <sub>
           <b>Geovana Domingos</b> <br>
-          <b> Criadora de conteúdos e administração. </b> 
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="img/kheronn.jpg" width="200px;" alt="Kheronn Machado"/><br>
+        <img src="img/kheronn.jpg" width="50px;" alt="Kheronn Machado"/><br>
         <sub>
           <b> Kheronn Machado</b> <br>
-          <b> Orientador </b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="img/mv.jpg" width="200px;" alt="Maria Vitoria"/><br>
+        <img src="img/mv.jpg" width="50px;" alt="Maria    Vitoria"/><br>
         <sub>
-          <b>Maria Vitória</b> <br>
-          <b>Social Mídeas </b>
+          <b>Maria_Vitória Sabater</b> <br>
         </sub>
       </a>
     </td>
    <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="img/mc.jpg" width="200px;" alt="Maria Clara"/><br>
+        <img src="img/mc.jpg" width="50px;" alt="Maria_Clara "/><br>
         <sub>
-          <b>Maria Clara</b> <br>
-          <b>Designer </b>
+          <b>Maria_Clara Fabro </b> <br>
         </sub>
       </a>
     </td>
   </tr>
 </table>
+<b>Funções</b> <br>
+
+<b>Geovana:</b> Criadora de conteúdos e administração. <br>
+
+<b>Graziela:</b> Progamadora Front-End<br> 
+
+<b>Maria Clara:</b> Desing <br>
+
+<b>Maria Vitória:</b> Social Mídias<br>
+
+<b>Kheronn Machado:</b> Orientador <br> 
